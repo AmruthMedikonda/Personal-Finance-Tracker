@@ -27,6 +27,3 @@ You can add any data to the CSV file and also access the required data from desi
 
 ## 🚀 About Me
 I'm a 3rd year CS Student at IIT Kanpur
-
-## 🔗 Links
-[[Github]](https://github.com/AmruthMedikonda)
