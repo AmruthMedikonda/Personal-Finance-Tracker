@@ -26,4 +26,4 @@ The program runs on Terminal or Command Line, by using the Command
 You can add any data to the CSV file and also access the required data from desired time frame and the summary of the finances during that time frame along with a plot if needed.
 
 ## 🚀 About Me
-I'm a 3rd year CS Student at IIT Kanpur
+I'm a 4th year CS Student at IIT Kanpur
